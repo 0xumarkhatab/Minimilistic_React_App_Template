@@ -41,5 +41,3 @@ Write Following Command in the terminal to clone the repository.
   
   Follow to connect with me :D
   
-  
->>>>>>> cd549123d9f8b6ab607ab4c7f7e1267529738851
