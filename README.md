@@ -32,8 +32,15 @@ Write Following Command in the terminal to clone the repository.
     
 <code>git clone https://github.com/umaresso/minimal_react_app <Write_Your_Project_Name> </code>
 
-#### replce <Write_Your_Project_Name> with the project Name you desire
-  
+Replace <Write_Your_Project_Name> with the project Name you desire
+Type
+<code>cd <Write_Your_Project_Name> </code>
+Now , install the dependencies by typing 
+<code>npm install</code>
+Finally, type 
+<code>npm start</code>
+  in  that terminal.
+
   You are All set :
   
   Now Start Developing !!!!
